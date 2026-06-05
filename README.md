@@ -10,7 +10,7 @@
     <td valign="top" width="54%" align="center">
       <img src="dorothy.png" alt="DORO" width="300" />
       <br/><br/>
-      <i>✨ FOLLOW THE WIND ✨</i>
+      <i>✨🌪️ FOLLOW THE WIND 🌪️✨</i>
       <br/><br/>
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=KraLurmumcoelcarix-173&theme=tokyonight&column=2&row=2&margin-w=6&margin-h=6" alt="trophies" />
