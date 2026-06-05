@@ -1,4 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 780" width="460" height="780" role="img" aria-label="PKONG interests">
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a1b27"/>
+      <stop offset="1" stop-color="#13141d"/>
+    </linearGradient>
+    <pattern id="cardgrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#70a5fd" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect x="1.5" y="1.5" width="457" height="777" rx="18" fill="url(#cardbg)" stroke="#2e3350" stroke-width="1.5"/>
+  <rect x="1.5" y="1.5" width="457" height="777" rx="18" fill="url(#cardgrid)"/>
   <g>
     <rect x="33.8" y="126.4" width="159.6" height="38.0" rx="19.0" fill="#ef4444"/>
     <text x="113.6" y="145.4" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Guangzhou</text>

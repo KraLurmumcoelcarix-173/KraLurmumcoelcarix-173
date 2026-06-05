@@ -1,4 +1,6 @@
-<h1 align="center">Hello World — Hello PKONG</h1>
+<p align="center">
+  <img src="banner.svg" alt="Hello World — Hello PKONG" width="100%" />
+</p>
 
 <table>
   <tr>
