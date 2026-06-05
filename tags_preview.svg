@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 520" width="440" height="520" role="img" aria-label="PKONG interests">
+  <g>
+    <rect x="116.3" y="444.9" width="141.4" height="33.0" rx="16.5" fill="#ef4444"/>
+    <text x="187.0" y="461.4" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Guangzhou</text>
+  </g>
+  <g>
+    <rect x="132.0" y="341.5" width="113.5" height="31.0" rx="15.5" fill="#f97316"/>
+    <text x="188.7" y="357.0" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Tar Heel</text>
+  </g>
+  <g>
+    <rect x="213.6" y="144.7" width="222.4" height="36.0" rx="18.0" fill="#d97706"/>
+    <text x="324.8" y="162.7" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Comp Sci + Math</text>
+  </g>
+  <g>
+    <rect x="297.4" y="221.3" width="133.6" height="34.0" rx="17.0" fill="#16a34a"/>
+    <text x="364.2" y="238.3" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Cat + Dog</text>
+  </g>
+  <g>
+    <rect x="4.0" y="18.2" width="232.6" height="34.0" rx="17.0" fill="#14b8a6"/>
+    <text x="120.3" y="35.2" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Agentic workflow</text>
+  </g>
+  <g>
+    <rect x="34.7" y="246.0" width="62.2" height="31.0" rx="15.5" fill="#0ea5e9"/>
+    <text x="65.8" y="261.5" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">H2P</text>
+  </g>
+  <g>
+    <rect x="96.3" y="126.7" width="280.0" height="32.0" rx="16.0" fill="#3b82f6"/>
+    <text x="236.3" y="142.7" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">History + Architecture</text>
+  </g>
+  <g>
+    <rect x="125.7" y="19.9" width="119.2" height="31.0" rx="15.5" fill="#6366f1"/>
+    <text x="185.3" y="35.4" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">LLM + VLN</text>
+  </g>
+  <g>
+    <rect x="45.7" y="345.3" width="54.4" height="34.0" rx="17.0" fill="#8b5cf6"/>
+    <text x="72.9" y="362.3" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">ML</text>
+  </g>
+  <g>
+    <rect x="46.5" y="155.8" width="66.4" height="28.0" rx="14.0" fill="#a855f7"/>
+    <text x="79.7" y="169.8" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Kong</text>
+  </g>
+  <g>
+    <rect x="4.0" y="467.9" width="308.8" height="38.0" rx="19.0" fill="#d946ef"/>
+    <text x="158.4" y="486.9" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">RPG + ACT + FPS + SLG</text>
+  </g>
+  <g>
+    <rect x="100.2" y="476.2" width="335.8" height="31.0" rx="15.5" fill="#ec4899"/>
+    <text x="268.1" y="491.7" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Fiction + Realism + Detective</text>
+  </g>
+  <g>
+    <rect x="163.0" y="247.2" width="74.0" height="35.0" rx="17.5" fill="#f43f5e"/>
+    <text x="200.0" y="264.7" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">派孔</text>
+  </g>
+</svg>
