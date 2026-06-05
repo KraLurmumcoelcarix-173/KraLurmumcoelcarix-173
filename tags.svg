@@ -1,132 +1,132 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 560" width="440" height="560" role="img" aria-label="PKONG interests">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 780" width="460" height="780" role="img" aria-label="PKONG interests">
   <g>
-    <rect x="125.2" y="318.0" width="125.2" height="30.0" rx="15.0" fill="#ef4444"/>
-    <text x="187.8" y="333.0" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Guangzhou</text>
+    <rect x="33.8" y="126.4" width="159.6" height="38.0" rx="19.0" fill="#ef4444"/>
+    <text x="113.6" y="145.4" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Guangzhou</text>
     <animate attributeName="opacity" begin="-15.23s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="158.3" y="449.2" width="122.5" height="33.0" rx="16.5" fill="#f97316"/>
-    <text x="219.6" y="465.7" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Tar Heel</text>
+    <rect x="4.8" y="462.9" width="115.5" height="33.0" rx="16.5" fill="#f97316"/>
+    <text x="62.6" y="479.4" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Tar Heel</text>
     <animate attributeName="opacity" begin="-21.15s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="4.5" y="336.4" width="149.5" height="27.0" rx="13.5" fill="#d97706"/>
-    <text x="79.2" y="349.9" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Comp Sci + Math</text>
+    <rect x="44.3" y="180.1" width="273.0" height="44.0" rx="22.0" fill="#d97706"/>
+    <text x="180.8" y="202.1" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Comp Sci + Math</text>
     <animate attributeName="opacity" begin="-4.23s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="327.0" y="202.1" width="100.0" height="27.0" rx="13.5" fill="#ca8a04"/>
-    <text x="377.0" y="215.6" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Cat + Dog</text>
+    <rect x="29.6" y="386.4" width="145.2" height="38.0" rx="19.0" fill="#ca8a04"/>
+    <text x="102.2" y="405.4" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Cat + Dog</text>
     <animate attributeName="opacity" begin="-6.77s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="4.0" y="464.8" width="195.4" height="30.0" rx="15.0" fill="#65a30d"/>
-    <text x="101.7" y="479.8" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Agentic workflow</text>
+    <rect x="12.4" y="681.0" width="225.3" height="35.0" rx="17.5" fill="#65a30d"/>
+    <text x="125.1" y="698.5" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Agentic workflow</text>
     <animate attributeName="opacity" begin="-20.31s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="314.3" y="327.8" width="67.6" height="34.0" rx="17.0" fill="#16a34a"/>
-    <text x="348.1" y="344.8" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">H2P</text>
+    <rect x="328.7" y="4.7" width="69.6" height="36.0" rx="18.0" fill="#16a34a"/>
+    <text x="363.5" y="22.7" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">H2P</text>
     <animate attributeName="opacity" begin="-5.08s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="67.3" y="382.1" width="280.0" height="32.0" rx="16.0" fill="#059669"/>
-    <text x="207.3" y="398.1" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">History + Architecture</text>
+    <rect x="131.6" y="446.9" width="269.4" height="33.0" rx="16.5" fill="#059669"/>
+    <text x="266.3" y="463.4" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">History + Architecture</text>
     <animate attributeName="opacity" begin="-3.38s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="129.7" y="72.5" width="114.4" height="30.0" rx="15.0" fill="#0d9488"/>
-    <text x="186.9" y="87.5" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">LLM + VLN</text>
+    <rect x="307.3" y="381.1" width="135.6" height="36.0" rx="18.0" fill="#0d9488"/>
+    <text x="375.1" y="399.1" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">LLM + VLN</text>
     <animate attributeName="opacity" begin="-0.85s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="181.0" y="207.3" width="47.2" height="28.0" rx="14.0" fill="#0891b2"/>
-    <text x="204.6" y="221.3" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">ML</text>
+    <rect x="190.0" y="387.6" width="58.8" height="38.0" rx="19.0" fill="#0891b2"/>
+    <text x="219.4" y="406.6" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">ML</text>
     <animate attributeName="opacity" begin="-7.62s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="153.4" y="264.4" width="83.2" height="35.0" rx="17.5" fill="#0284c7"/>
-    <text x="195.0" y="281.9" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Kong</text>
+    <rect x="336.8" y="736.5" width="87.6" height="38.0" rx="19.0" fill="#0284c7"/>
+    <text x="380.6" y="755.5" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Kong</text>
     <animate attributeName="opacity" begin="-2.54s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="170.4" y="376.9" width="265.6" height="34.0" rx="17.0" fill="#2563eb"/>
-    <text x="303.2" y="393.9" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">RPG + ACT + FPS + SLG</text>
+    <rect x="108.9" y="327.2" width="321.6" height="41.0" rx="20.5" fill="#2563eb"/>
+    <text x="269.7" y="347.7" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">RPG + ACT + FPS + SLG</text>
     <animate attributeName="opacity" begin="-10.15s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="116.4" y="22.0" width="319.6" height="30.0" rx="15.0" fill="#4f46e5"/>
-    <text x="276.2" y="37.0" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Fiction + Realism + Detective</text>
+    <rect x="78.0" y="509.0" width="321.6" height="32.0" rx="16.0" fill="#4f46e5"/>
+    <text x="238.8" y="525.0" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Fiction + Realism + Detective</text>
     <animate attributeName="opacity" begin="-11.85s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="177.4" y="4.0" width="58.0" height="27.0" rx="13.5" fill="#6d28d9"/>
-    <text x="206.4" y="17.5" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">派孔</text>
+    <rect x="328.3" y="144.5" width="82.0" height="40.0" rx="20.0" fill="#6d28d9"/>
+    <text x="369.3" y="164.5" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">派孔</text>
     <animate attributeName="opacity" begin="-19.46s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="320.5" y="271.8" width="109.0" height="27.0" rx="13.5" fill="#7c3aed"/>
-    <text x="375.0" y="285.3" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Soulslike</text>
+    <rect x="278.7" y="618.3" width="175.8" height="41.0" rx="20.5" fill="#7c3aed"/>
+    <text x="366.6" y="638.8" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Soulslike</text>
     <animate attributeName="opacity" begin="-18.62s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="88.0" y="152.7" width="198.1" height="33.0" rx="16.5" fill="#9333ea"/>
-    <text x="187.1" y="169.2" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Drafting Manga</text>
+    <rect x="258.2" y="692.3" width="192.0" height="34.0" rx="17.0" fill="#9333ea"/>
+    <text x="354.2" y="709.3" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Drafting Manga</text>
     <animate attributeName="opacity" begin="-1.69s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="304.0" y="73.0" width="60.4" height="30.0" rx="15.0" fill="#c026d3"/>
-    <text x="334.2" y="88.0" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">pho</text>
+    <rect x="4.9" y="329.3" width="75.0" height="39.0" rx="19.5" fill="#c026d3"/>
+    <text x="42.4" y="348.8" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">pho</text>
     <animate attributeName="opacity" begin="-14.38s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="13.8" y="15.3" width="76.0" height="28.0" rx="14.0" fill="#db2777"/>
-    <text x="51.8" y="29.3" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">ramen</text>
+    <rect x="338.0" y="198.2" width="105.0" height="39.0" rx="19.5" fill="#db2777"/>
+    <text x="390.5" y="217.7" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">ramen</text>
     <animate attributeName="opacity" begin="-16.92s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="4.0" y="378.5" width="256.0" height="32.0" rx="16.0" fill="#e11d48"/>
-    <text x="132.0" y="394.5" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Hiking + Backpacking</text>
+    <rect x="142.9" y="49.8" width="246.6" height="33.0" rx="16.5" fill="#e11d48"/>
+    <text x="266.2" y="66.3" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Hiking + Backpacking</text>
     <animate attributeName="opacity" begin="-0.00s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="262.2" y="438.5" width="173.8" height="30.0" rx="15.0" fill="#b91c1c"/>
-    <text x="349.1" y="453.5" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Edge Computing</text>
+    <rect x="29.6" y="733.0" width="192.0" height="34.0" rx="17.0" fill="#b91c1c"/>
+    <text x="125.6" y="750.0" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Edge Computing</text>
     <animate attributeName="opacity" begin="-11.00s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="37.5" y="140.8" width="398.5" height="25.0" rx="12.5" fill="#b45309"/>
-    <text x="236.7" y="153.3" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Horror + Adventure + Simulation + Interactive Movie</text>
+    <rect x="4.6" y="271.5" width="429.0" height="28.0" rx="14.0" fill="#b45309"/>
+    <text x="219.1" y="285.5" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Horror + Adventure + Simulation + Interactive Movie</text>
     <animate attributeName="opacity" begin="-5.92s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="136.4" y="523.0" width="114.4" height="30.0" rx="15.0" fill="#4d7c0f"/>
-    <text x="193.6" y="538.0" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">PVP + PVE</text>
+    <rect x="283.0" y="94.3" width="150.0" height="39.0" rx="19.5" fill="#4d7c0f"/>
+    <text x="358.0" y="113.8" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">PVP + PVE</text>
     <animate attributeName="opacity" begin="-9.31s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="4.0" y="205.0" width="148.0" height="32.0" rx="16.0" fill="#15803d"/>
-    <text x="78.0" y="221.0" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Basketball</text>
+    <rect x="8.2" y="572.8" width="198.0" height="42.0" rx="21.0" fill="#15803d"/>
+    <text x="107.2" y="593.8" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Basketball</text>
     <animate attributeName="opacity" begin="-16.08s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="63.5" y="133.3" width="68.8" height="29.0" rx="14.5" fill="#0f766e"/>
-    <text x="97.9" y="147.8" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Boba</text>
+    <rect x="15.9" y="73.3" width="94.8" height="41.0" rx="20.5" fill="#0f766e"/>
+    <text x="63.3" y="93.8" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Boba</text>
     <animate attributeName="opacity" begin="-13.54s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="298.8" y="520.0" width="130.6" height="31.0" rx="15.5" fill="#1d4ed8"/>
-    <text x="364.1" y="535.5" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Pineapple</text>
+    <rect x="125.2" y="633.0" width="143.4" height="35.0" rx="17.5" fill="#1d4ed8"/>
+    <text x="196.9" y="650.5" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Pineapple</text>
     <animate attributeName="opacity" begin="-17.77s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="4.0" y="514.7" width="95.2" height="28.0" rx="14.0" fill="#6366f1"/>
-    <text x="51.6" y="528.7" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Seaweed</text>
+    <rect x="292.8" y="556.6" width="147.6" height="42.0" rx="21.0" fill="#6366f1"/>
+    <text x="366.6" y="577.6" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Seaweed</text>
     <animate attributeName="opacity" begin="-12.69s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
   <g>
-    <rect x="9.0" y="66.3" width="130.0" height="29.0" rx="14.5" fill="#a21caf"/>
-    <text x="74.0" y="80.8" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Travelling</text>
+    <rect x="91.8" y="5.4" width="162.0" height="36.0" rx="18.0" fill="#a21caf"/>
+    <text x="172.8" y="23.4" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Travelling</text>
     <animate attributeName="opacity" begin="-8.46s" dur="22.0s" repeatCount="indefinite" keyTimes="0.0000;0.0817;0.2452;0.3269;1.0000" values="0;1;1;0;0" calcMode="linear"/>
   </g>
 </svg>
