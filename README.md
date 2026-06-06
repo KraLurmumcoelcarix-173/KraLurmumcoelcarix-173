@@ -10,7 +10,7 @@
     <td valign="top" width="54%" align="center">
       <img src="shouanren.gif" alt="shouanren" width="320" />
       <br/>
-      <i>✨ FOLLOW THE HEART ✨</i>
+      <i>✨ <strong> FOLLOW THE HEART </strong> ✨</i>
       <br/><br/>
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=KraLurmumcoelcarix-173&theme=tokyonight&column=2&row=2&margin-w=6&margin-h=6" alt="trophies" />
@@ -18,7 +18,7 @@
       <br/><br/>
       <img src="dorothy.png" alt="DORO" width="280" />
       <br/>
-      <i>✨🌪️ FOLLOW THE WIND 🌪️✨</i>
+      <i>✨🌪️ <strong> FOLLOW THE WIND </strong> 🌪️✨</i>
     </td>
   </tr>
 </table>
