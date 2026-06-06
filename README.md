@@ -8,9 +8,9 @@
       <img src="tags.svg" alt="PKONG · interests" width="100%" />
     </td>
     <td valign="top" width="54%" align="center">
-      <img src="shouanren.gif" alt="shouanren" width="320" />
+      <img src="shouanren.webp" alt="shouanren" width="320" />
       <br/>
-      <i>✨ <strong> FOLLOW THE HEART </strong> ✨</i>
+      <i>✨🦋 <strong> FOLLOW THE HEART </strong> 🦋✨</i>
       <br/><br/>
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=KraLurmumcoelcarix-173&theme=tokyonight&column=2&row=2&margin-w=6&margin-h=6" alt="trophies" />
