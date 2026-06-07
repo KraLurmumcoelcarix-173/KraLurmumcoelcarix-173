@@ -16,7 +16,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=KraLurmumcoelcarix-173&theme=tokyonight&column=2&row=2&margin-w=6&margin-h=6" alt="trophies" />
       </a>
       <br/><br/>
-      <img src="dorothy.png" alt="DORO" width="280" />
+      <img src="doro_snow.svg" alt="DORO" width="320" />
       <br/>
       <i>✨🌪️ <strong> FOLLOW THE WIND </strong> 🌪️✨</i>
     </td>
