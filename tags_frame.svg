@@ -1,4 +1,86 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 960" width="460" height="960" role="img" aria-label="PKONG interests">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dcefff"/>
+      <stop offset="1" stop-color="#b8ddfb"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="460" height="960" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="460" height="960" fill="url(#sky)"/>
+    <circle cx="66.4" cy="236.8" r="3.0" fill="#fff" opacity="0.73"/>
+    <circle cx="16.9" cy="175.2" r="1.7" fill="#fff" opacity="0.74"/>
+    <circle cx="187.0" cy="319.8" r="2.5" fill="#fff" opacity="0.74"/>
+    <circle cx="360.0" cy="757.3" r="1.5" fill="#fff" opacity="0.46"/>
+    <circle cx="232.5" cy="347.0" r="2.8" fill="#fff" opacity="0.64"/>
+    <circle cx="101.3" cy="932.3" r="2.2" fill="#fff" opacity="0.81"/>
+    <circle cx="14.8" cy="202.9" r="3.1" fill="#fff" opacity="0.75"/>
+    <circle cx="172.5" cy="863.0" r="2.1" fill="#fff" opacity="0.59"/>
+    <circle cx="252.3" cy="96.2" r="2.1" fill="#fff" opacity="0.77"/>
+    <circle cx="221.1" cy="704.6" r="3.7" fill="#fff" opacity="0.77"/>
+    <circle cx="91.0" cy="605.6" r="3.5" fill="#fff" opacity="0.47"/>
+    <circle cx="410.5" cy="808.3" r="1.6" fill="#fff" opacity="0.85"/>
+    <circle cx="31.4" cy="71.9" r="3.7" fill="#fff" opacity="0.66"/>
+    <circle cx="419.0" cy="508.1" r="3.3" fill="#fff" opacity="0.83"/>
+    <circle cx="183.9" cy="99.8" r="2.2" fill="#fff" opacity="0.71"/>
+    <circle cx="107.9" cy="844.0" r="3.0" fill="#fff" opacity="0.58"/>
+    <circle cx="277.0" cy="811.2" r="2.2" fill="#fff" opacity="0.78"/>
+    <circle cx="18.1" cy="489.9" r="3.7" fill="#fff" opacity="0.67"/>
+    <circle cx="12.2" cy="910.0" r="1.8" fill="#fff" opacity="0.84"/>
+    <circle cx="162.5" cy="779.3" r="2.7" fill="#fff" opacity="0.71"/>
+    <circle cx="228.3" cy="368.2" r="2.5" fill="#fff" opacity="0.50"/>
+    <circle cx="79.7" cy="582.7" r="2.4" fill="#fff" opacity="0.64"/>
+    <circle cx="394.3" cy="93.1" r="2.6" fill="#fff" opacity="0.77"/>
+    <circle cx="39.6" cy="266.1" r="3.7" fill="#fff" opacity="0.69"/>
+    <circle cx="437.5" cy="327.2" r="3.6" fill="#fff" opacity="0.78"/>
+    <circle cx="22.2" cy="402.6" r="2.9" fill="#fff" opacity="0.73"/>
+    <circle cx="319.6" cy="275.8" r="2.7" fill="#fff" opacity="0.56"/>
+    <circle cx="41.2" cy="586.6" r="2.6" fill="#fff" opacity="0.67"/>
+    <circle cx="257.8" cy="371.3" r="3.6" fill="#fff" opacity="0.84"/>
+    <circle cx="176.5" cy="410.3" r="2.8" fill="#fff" opacity="0.61"/>
+    <circle cx="130.3" cy="906.0" r="2.6" fill="#fff" opacity="0.80"/>
+    <circle cx="144.2" cy="134.7" r="3.6" fill="#fff" opacity="0.59"/>
+    <circle cx="298.0" cy="283.7" r="2.3" fill="#fff" opacity="0.86"/>
+    <circle cx="326.3" cy="546.5" r="2.2" fill="#fff" opacity="0.70"/>
+    <circle cx="263.1" cy="906.5" r="3.8" fill="#fff" opacity="0.85"/>
+    <circle cx="185.6" cy="258.1" r="2.5" fill="#fff" opacity="0.48"/>
+    <circle cx="378.4" cy="875.2" r="1.8" fill="#fff" opacity="0.77"/>
+    <circle cx="35.1" cy="433.0" r="2.7" fill="#fff" opacity="0.68"/>
+    <circle cx="154.4" cy="898.9" r="1.7" fill="#fff" opacity="0.45"/>
+    <circle cx="383.1" cy="302.0" r="3.4" fill="#fff" opacity="0.75"/>
+    <circle cx="350.7" cy="695.7" r="2.2" fill="#fff" opacity="0.48"/>
+    <circle cx="140.7" cy="399.8" r="3.5" fill="#fff" opacity="0.72"/>
+    <circle cx="395.0" cy="635.4" r="3.7" fill="#fff" opacity="0.73"/>
+    <circle cx="336.1" cy="359.5" r="3.6" fill="#fff" opacity="0.65"/>
+    <circle cx="413.1" cy="266.9" r="1.9" fill="#fff" opacity="0.59"/>
+    <circle cx="345.5" cy="835.5" r="2.1" fill="#fff" opacity="0.58"/>
+    <circle cx="436.9" cy="62.1" r="2.2" fill="#fff" opacity="0.46"/>
+    <circle cx="60.2" cy="722.8" r="2.8" fill="#fff" opacity="0.46"/>
+    <circle cx="412.8" cy="243.7" r="2.1" fill="#fff" opacity="0.81"/>
+    <circle cx="52.0" cy="149.2" r="1.7" fill="#fff" opacity="0.62"/>
+    <circle cx="361.1" cy="146.9" r="2.2" fill="#fff" opacity="0.45"/>
+    <circle cx="70.1" cy="437.9" r="3.5" fill="#fff" opacity="0.81"/>
+    <circle cx="286.5" cy="869.2" r="2.3" fill="#fff" opacity="0.84"/>
+    <circle cx="153.8" cy="158.8" r="1.9" fill="#fff" opacity="0.58"/>
+    <circle cx="280.6" cy="59.5" r="1.7" fill="#fff" opacity="0.80"/>
+    <circle cx="320.1" cy="941.4" r="2.6" fill="#fff" opacity="0.49"/>
+    <circle cx="280.0" cy="950.8" r="2.8" fill="#fff" opacity="0.48"/>
+    <circle cx="60.4" cy="361.1" r="1.8" fill="#fff" opacity="0.58"/>
+    <circle cx="239.4" cy="222.6" r="3.0" fill="#fff" opacity="0.73"/>
+    <circle cx="370.0" cy="649.6" r="3.1" fill="#fff" opacity="0.54"/>
+    <circle cx="7.7" cy="731.6" r="2.6" fill="#fff" opacity="0.70"/>
+    <circle cx="122.7" cy="77.6" r="2.7" fill="#fff" opacity="0.50"/>
+    <circle cx="360.4" cy="292.1" r="1.5" fill="#fff" opacity="0.61"/>
+    <circle cx="211.5" cy="372.8" r="3.4" fill="#fff" opacity="0.65"/>
+    <circle cx="139.0" cy="766.2" r="2.8" fill="#fff" opacity="0.71"/>
+    <circle cx="50.7" cy="432.7" r="1.8" fill="#fff" opacity="0.51"/>
+    <circle cx="243.4" cy="95.3" r="3.7" fill="#fff" opacity="0.60"/>
+    <circle cx="8.8" cy="198.6" r="2.1" fill="#fff" opacity="0.78"/>
+    <circle cx="453.8" cy="466.2" r="1.7" fill="#fff" opacity="0.64"/>
+    <circle cx="206.7" cy="103.9" r="1.8" fill="#fff" opacity="0.51"/>
+    <circle cx="224.8" cy="773.6" r="3.5" fill="#fff" opacity="0.60"/>
+  </g>
+  <rect x="0.75" y="0.75" width="458.5" height="958.5" rx="18" fill="none" stroke="#9cc9ef" stroke-width="1.5"/>
   <g opacity="0.000">
     <rect x="258.6" y="6.5" width="143.4" height="35.0" rx="17.5" fill="#ef4444"/>
     <text x="330.3" y="24.0" font-family="'Segoe UI','PingFang SC','Microsoft YaHei',Ubuntu,Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="central">Guangzhou</text>
