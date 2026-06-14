@@ -12,13 +12,22 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: generate snake (neon tokyonight palette)
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
+            dist/github-contribution-grid-snake.svg?color_snake=#bf91f3&color_dots=#ebedf0,#79c0ff,#70a5fd,#bf91f3,#ff79c6
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#8be9fd&color_dots=#161b22,#38bdae,#70a5fd,#bf91f3,#ff79c6
+
+      - name: add neon glow ✨
+        run: |
+          for f in dist/*.svg; do
+            sed -i 's|</svg>|<style>rect,path{filter:drop-shadow(0 0 2px #8be9fd)}</style></svg>|' "$f"
+          done
+
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
