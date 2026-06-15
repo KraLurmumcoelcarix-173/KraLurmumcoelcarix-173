@@ -159,8 +159,6 @@
       <line x1="0" x2="880" stroke="#ff2e97" stroke-width="2"><animate attributeName="y1" values="112;210" dur="4s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="y2" values="112;210" dur="4s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="0.0s" repeatCount="indefinite"/></line>
       <line x1="0" x2="880" stroke="#ff2e97" stroke-width="2"><animate attributeName="y1" values="112;210" dur="4s" begin="-2.0s" repeatCount="indefinite"/><animate attributeName="y2" values="112;210" dur="4s" begin="-2.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="-2.0s" repeatCount="indefinite"/></line>
     </g>
-    <text x="20" y="196" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13" fill="#06d4e0" filter="url(#glow)">&gt; follow_the_heart</text>
-    <text x="860" y="196" text-anchor="end" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13" fill="#ff2e97" filter="url(#glow)">follow_the_wind ▮</text>
     <rect x="0" width="880" height="40" fill="#06d4e0" opacity="0.05"><animate attributeName="y" values="-40;210" dur="6s" repeatCount="indefinite"/></rect>
   </g>
   <rect x="0.75" y="0.75" width="878.5" height="208.5" rx="16" fill="none" stroke="#06d4e0" stroke-opacity="0.55" stroke-width="1.5"/>

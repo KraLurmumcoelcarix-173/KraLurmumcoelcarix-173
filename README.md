@@ -30,9 +30,7 @@
 <img src="neon_divider.svg" width="100%" alt="" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KraLurmumcoelcarix-173&theme=synthwave&show_icons=true&hide_border=true&bg_color=00000000" height="158" alt="stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraLurmumcoelcarix-173&theme=synthwave&layout=compact&hide_border=true&bg_color=00000000" height="158" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraLurmumcoelcarix-173&layout=compact&langs_count=8&hide_border=true&bg_color=0d0420&title_color=ff2e97&text_color=e6e6fa&border_radius=12" height="165" alt="most used languages" />
 </p>
 
 <picture>

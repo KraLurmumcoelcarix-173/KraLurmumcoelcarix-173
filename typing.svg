@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 508 44" width="508" height="44" role="img" aria-label="typing">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 436 44" width="436" height="44" role="img" aria-label="typing">
   <defs>
     <linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#06d4e0"/><stop offset="1" stop-color="#b06bff"/></linearGradient>
-    <clipPath id="rev"><rect x="20" y="0" width="0" height="44"><animate attributeName="width" values="0;444;444" keyTimes="0;0.65;1" dur="6s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="rev"><rect x="20" y="0" width="0" height="44"><animate attributeName="width" values="0;372;372" keyTimes="0;0.65;1" dur="6s" repeatCount="indefinite"/></rect></clipPath>
   </defs>
-  <text x="20" y="29" clip-path="url(#rev)" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="20" font-weight="700" fill="url(#tg)">&gt; follow the heart // follow the wind</text>
-  <rect y="13" width="10" height="22" rx="1" fill="#ff2e97"><animate attributeName="x" values="20;464;464" keyTimes="0;0.65;1" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="0.8s" repeatCount="indefinite"/></rect>
+  <text x="20" y="29" clip-path="url(#rev)" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="20" font-weight="700" fill="url(#tg)">&gt; keep building // stay curious</text>
+  <rect y="13" width="10" height="22" rx="1" fill="#ff2e97"><animate attributeName="x" values="20;392;392" keyTimes="0;0.65;1" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="0.8s" repeatCount="indefinite"/></rect>
 </svg>
