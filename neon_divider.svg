@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 34" width="880" height="34" role="img" aria-label="neon divider">
+  <defs>
+    <linearGradient id="dl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#06d4e0" stop-opacity="0"/><stop offset="0.5" stop-color="#b06bff"/><stop offset="1" stop-color="#ff2e97" stop-opacity="0"/></linearGradient>
+    <filter id="g2" x="-10%" y="-400%" width="120%" height="900%"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <line x1="0" y1="17.0" x2="880" y2="17.0" stroke="url(#dl)" stroke-width="2" filter="url(#g2)"/>
+  <circle cx="70" cy="17.0" r="2.2" fill="#b06bff" filter="url(#g2)"/>
+  <circle cx="160" cy="17.0" r="2.2" fill="#b06bff" filter="url(#g2)"/>
+  <circle cx="250" cy="17.0" r="2.2" fill="#b06bff" filter="url(#g2)"/>
+  <circle cx="340" cy="17.0" r="2.2" fill="#b06bff" filter="url(#g2)"/>
+  <circle cx="430" cy="17.0" r="2.2" fill="#b06bff" filter="url(#g2)"/>
+  <circle cx="520" cy="17.0" r="2.2" fill="#b06bff" filter="url(#g2)"/>
+  <circle cx="610" cy="17.0" r="2.2" fill="#b06bff" filter="url(#g2)"/>
+  <circle cx="700" cy="17.0" r="2.2" fill="#b06bff" filter="url(#g2)"/>
+  <circle cx="790" cy="17.0" r="2.2" fill="#b06bff" filter="url(#g2)"/>
+  <circle cy="17.0" r="3.4" fill="#06d4e0" filter="url(#g2)"><animate attributeName="cx" values="0;880" dur="3s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
+  <circle cy="17.0" r="3.4" fill="#ff2e97" filter="url(#g2)"><animate attributeName="cx" values="0;880" dur="3s" begin="-1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="3s" begin="-1.5s" repeatCount="indefinite"/></circle>
+</svg>

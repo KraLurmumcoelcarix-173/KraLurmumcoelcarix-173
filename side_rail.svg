@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 880" width="26" height="880" role="img" aria-label="neon rail">
+  <defs>
+    <linearGradient id="rg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#06d4e0"/><stop offset="0.5" stop-color="#b06bff"/><stop offset="1" stop-color="#ff2e97"/></linearGradient>
+    <filter id="g3" x="-300%" y="-10%" width="700%" height="120%"><feGaussianBlur stdDeviation="1.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <line x1="13.0" y1="0" x2="13.0" y2="880" stroke="url(#rg)" stroke-width="2" filter="url(#g3)"/>
+  <circle cx="13.0" cy="50" r="2.2" fill="#b06bff" filter="url(#g3)"/>
+  <line x1="7.0" y1="50" x2="19.0" y2="50" stroke="#06d4e0" stroke-width="1" opacity="0.4"/>
+  <circle cx="13.0" cy="140" r="2.2" fill="#b06bff" filter="url(#g3)"/>
+  <line x1="7.0" y1="140" x2="19.0" y2="140" stroke="#06d4e0" stroke-width="1" opacity="0.4"/>
+  <circle cx="13.0" cy="230" r="2.2" fill="#b06bff" filter="url(#g3)"/>
+  <line x1="7.0" y1="230" x2="19.0" y2="230" stroke="#06d4e0" stroke-width="1" opacity="0.4"/>
+  <circle cx="13.0" cy="320" r="2.2" fill="#b06bff" filter="url(#g3)"/>
+  <line x1="7.0" y1="320" x2="19.0" y2="320" stroke="#06d4e0" stroke-width="1" opacity="0.4"/>
+  <circle cx="13.0" cy="410" r="2.2" fill="#b06bff" filter="url(#g3)"/>
+  <line x1="7.0" y1="410" x2="19.0" y2="410" stroke="#06d4e0" stroke-width="1" opacity="0.4"/>
+  <circle cx="13.0" cy="500" r="2.2" fill="#b06bff" filter="url(#g3)"/>
+  <line x1="7.0" y1="500" x2="19.0" y2="500" stroke="#06d4e0" stroke-width="1" opacity="0.4"/>
+  <circle cx="13.0" cy="590" r="2.2" fill="#b06bff" filter="url(#g3)"/>
+  <line x1="7.0" y1="590" x2="19.0" y2="590" stroke="#06d4e0" stroke-width="1" opacity="0.4"/>
+  <circle cx="13.0" cy="680" r="2.2" fill="#b06bff" filter="url(#g3)"/>
+  <line x1="7.0" y1="680" x2="19.0" y2="680" stroke="#06d4e0" stroke-width="1" opacity="0.4"/>
+  <circle cx="13.0" cy="770" r="2.2" fill="#b06bff" filter="url(#g3)"/>
+  <line x1="7.0" y1="770" x2="19.0" y2="770" stroke="#06d4e0" stroke-width="1" opacity="0.4"/>
+  <circle cx="13.0" cy="860" r="2.2" fill="#b06bff" filter="url(#g3)"/>
+  <line x1="7.0" y1="860" x2="19.0" y2="860" stroke="#06d4e0" stroke-width="1" opacity="0.4"/>
+  <circle cx="13.0" r="3.2" fill="#06d4e0" filter="url(#g3)"><animate attributeName="cy" values="0;880" dur="4s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="4s" begin="0.0s" repeatCount="indefinite"/></circle>
+  <circle cx="13.0" r="3.2" fill="#ff2e97" filter="url(#g3)"><animate attributeName="cy" values="0;880" dur="4s" begin="-2.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="4s" begin="-2.0s" repeatCount="indefinite"/></circle>
+</svg>

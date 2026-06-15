@@ -1,13 +1,16 @@
-<p align="center">
-  <img src="banner.svg" alt="Hello World — Hello PKONG" width="100%" />
-</p>
+<p align="center"><img src="banner.svg" alt="Hello World — Hello PKONG" width="100%" /></p>
+
+<p align="center"><img src="typing.svg" alt="follow the heart // follow the wind" width="480" /></p>
+
+<p align="center"><img src="hud_panel.svg" alt="" width="100%" /></p>
+
+<img src="neon_divider.svg" width="100%" alt="" />
 
 <table>
   <tr>
-    <td valign="top" width="46%">
-      <img src="tags.svg" alt="PKONG · interests" width="100%" />
-    </td>
-    <td valign="top" width="54%" align="center">
+    <td valign="top" width="28"><img src="side_rail.svg" width="26" alt="" /></td>            <!-- #1 left rail -->
+    <td valign="top" width="44%"><img src="tags.svg" alt="PKONG · interests" width="100%" /></td>
+    <td valign="top" width="50%" align="center">
       <img src="shouanren.webp" alt="shouanren" width="320" />
       <br/>
       <i>✨ <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f98b.png" width="18" alt="🦋"> <strong>FOLLOW THE HEART</strong> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f98b.png" width="18" alt="🦋"> ✨</i>
@@ -20,11 +23,23 @@
       <br/>
       <i>✨🌪️ <strong> FOLLOW THE WIND </strong> 🌪️✨</i>
     </td>
+    <td valign="top" width="28"><img src="side_rail.svg" width="26" alt="" /></td>        
   </tr>
 </table>
+
+<img src="neon_divider.svg" width="100%" alt="" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KraLurmumcoelcarix-173&theme=synthwave&show_icons=true&hide_border=true&bg_color=00000000" height="158" alt="stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraLurmumcoelcarix-173&theme=synthwave&layout=compact&hide_border=true&bg_color=00000000" height="158" alt="top langs" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KraLurmumcoelcarix-173/KraLurmumcoelcarix-173/output/github-contribution-grid-snake-dark.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/KraLurmumcoelcarix-173/KraLurmumcoelcarix-173/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<img src="neon_divider.svg" width="100%" alt="" />
+
+<p align="center"><img src="cyber_footer.svg" alt="" width="100%" /></p>
