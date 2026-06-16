@@ -13,7 +13,7 @@
     <td valign="top" width="50%" align="center">
       <img src="shouanren.webp" alt="shouanren" width="320" />
       <br/>
-      <i>✨ <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f98b.png" width="18" alt="🦋"> <strong>FOLLOW THE HEART</strong> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f98b.png" width="18" alt="🦋"> ✨</i>
+      <i> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f98b.png" width="18" alt="🦋"> <strong>FOLLOW THE HEART</strong> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f98b.png" width="18" alt="🦋"> </i>
       <br/><br/>
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=KraLurmumcoelcarix-173&theme=tokyonight&column=2&row=2&margin-w=6&margin-h=6" alt="trophies" />
@@ -21,7 +21,7 @@
       <br/><br/>
       <img src="DS.png" alt="DSDEN" width="300" />
       <br/>
-      <i>✨🌪️ <strong> FOLLOW THE WIND </strong> 🌪️✨</i>
+      <i>🌪️ <strong> FOLLOW THE WIND </strong> 🌪️</i>
     </td>
     <td valign="top" width="28"><img src="side_rail.svg" width="26" alt="" /></td>        
   </tr>
