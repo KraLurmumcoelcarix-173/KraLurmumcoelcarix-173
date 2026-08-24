@@ -11,7 +11,7 @@
     <td valign="top" width="28"><img src="side_rail.svg" width="26" alt="" /></td>            <!-- #1 left rail -->
     <td valign="top" width="44%"><img src="tags.svg" alt="PKONG · interests" width="100%" /></td>
     <td valign="top" width="50%" align="center">
-      <img src="shouanren.webp" alt="shouanren" width="320" />
+      <img src="rdrs.webp" alt="rdrs" width="320" />
       <br/>
       <i> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f98b.png" width="18" alt="🦋"> <strong>FOLLOW THE HEART</strong> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f98b.png" width="18" alt="🦋"> </i>
       <br/><br/>
